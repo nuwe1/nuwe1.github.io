@@ -23,8 +23,6 @@ TODO: Write history
 #Credits
 TODO: Write credits
 
-#License
-TODO: Write license
 
 #Contibutor
 nuwe
