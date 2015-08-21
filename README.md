@@ -1,5 +1,5 @@
 # nuwe1.github.io 
-This is where I used to host my manfest file on github pages.This is my webpage where I share my webpages and all other stuff. I also list my projects this page so feel free to fork and watch any of my projects. 
+This is where I used to host my manfest file on github pages.This is my webpage where I share my information and all other stuff. I also list my projects this page so feel free to fork and watch any of my projects. 
 this is also my bloging platform
 
 #Contributing
