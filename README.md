@@ -21,7 +21,7 @@ A short description of the motivation behind the creation and maintenance of the
 TODO: Write history
 
 #Credits
-editedby:nuwe
+edited and created by:nuwe
 
 
 #Contibutor
