@@ -18,7 +18,7 @@ This page was started as a way to host my projects for free. It was also created
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 #History
-TODO: the file contains code from code generator 
+TODO: edit file regularly and change the code files 
 
 #Credits
 edited and created by:Nuwe Marvin 
